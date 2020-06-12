@@ -1,6 +1,7 @@
 # Hazel
-*All alone my watch I'm keeping,
-In the Hazel-Dell;*  -Root
+*All alone my watch I'm keeping,*
+*In the Hazel-Dell;*
+                                    -Root
 
 Hazel is an associative array library. I wrote it as a beginning point of a programming language I was working on before I realized how much time it would take to do. I still plan to finish the language, but this is at least a starting point.
 Unfortunately:
